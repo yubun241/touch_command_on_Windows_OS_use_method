@@ -1,0 +1,2 @@
+# touch_command_on_Windows_OS_use_method
+LINUXのターミナルコマンドのtouchコマンドをwindowsのコマンドプロンプトで活用する手順
